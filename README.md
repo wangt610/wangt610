@@ -1,12 +1,10 @@
-<div>
-  <!-- Hello this is wangt  -->
+  <!-- 徽章：关注者数、访问量 -->
+  <div>
+     <!-- Hello this is wangt  -->
   <h1>
     <span id="typing-effect"></span>
     <span class="cursor">Hello this is wangt!</span>
   </h1>
-
-  <!-- 徽章：关注者数、访问量 -->
-  <div>
     <img src="https://img.shields.io/github/followers/wangt610?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
     <img src="https://komarev.com/ghpvc/?username=wangt610&label=Profile%20Views&style=for-the-badge&color=orange" alt="Profile Views">
 </div>
