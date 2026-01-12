@@ -2,7 +2,7 @@
   <!-- Hello this is wangt  -->
   <h1>
     <span id="typing-effect"></span>
-    <span class="cursor">|</span>
+    <span class="cursor">Hello this is wangt</span>
   </h1>
 
   <!-- 徽章：关注者数、访问量 -->
@@ -24,11 +24,11 @@
 
 ## 📊 GitHub 统计
 <div>
-  <!-- 整体统计卡片 -->
+  <!--<!-- 整体统计卡片 -->
   <img src="https://github-readme-stats.vercel.app/api?username=wangt610&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%">
   <!-- 常用语言卡片 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangt610&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
-  
+  -->
   <!-- 贡献图 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangt610&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="97%">
 </div>
