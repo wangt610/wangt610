@@ -1,26 +1,106 @@
-# Hi there 👋, **HikariLan です 🥰.**
+<div align="center">
+  <!-- 动态打字效果标题 -->
+  <h1>
+    <span id="typing-effect"></span>
+    <span class="cursor">|</span>
+  </h1>
 
-<a title="github" target="_blank" href="https://github.com/shaokeyibb"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dshaokeyibb&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
-<a href="https://hits.sh/github.com/shaokeyibb/"><img alt="Hits" src="https://hits.sh/github.com/shaokeyibb.svg"/></a> 
-[<img src="https://img.shields.io/badge/HikariLan's%20Homepage-purple"/>](https://hikarilan.life)
-[<img src="https://img.shields.io/badge/HikariLan's%20Blog-purple"/>](https://blog.hikarilan.life)
-[<img src="https://img.shields.io/badge/HikariLan's%20Resume-purple"/>](https://cv.hikarilan.life)
+  <!-- 徽章：关注者数、访问量 -->
+  <div>
+    <img src="https://img.shields.io/github/followers/wangt610?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
+    <img src="https://komarev.com/ghpvc/?username=wangt610&label=Profile%20Views&style=for-the-badge&color=orange" alt="Profile Views">
+  </div>
 
-A student at *Xi'an University of Finance and Economics, China*, majoring in Finance. 
+  <!-- 徽章链接：个人主页、博客、简历 -->
+  <div style="margin-top: 10px;">
+    <a href="【你的个人主页链接】" target="_blank">
+      <img src="https://img.shields.io/badge/个人主页-🌐-brightgreen?style=for-the-badge" alt="Personal Homepage">
+    </a>
+    <a href="https://wangt610.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/博客-✍️-purple?style=for-the-badge" alt="Blog">
+    </a>
+    <a href="【你的简历链接】" target="_blank">
+      <img src="https://img.shields.io/badge/简历-📄-red?style=for-the-badge" alt="Resume">
+    </a>
+  </div>
+</div>
 
-**I'd like to swim in the ocean of binaries rather than boring economics :)** 
+<!-- 动态打字效果脚本 -->
+<script>
+  const text = "Hi, I'm wangt610 👋";
+  const typingElement = document.getElementById('typing-effect');
+  let index = 0;
+  const speed = 150;
 
-Contact me: <a href=＂mailto:i@hikarilan.life＂>i@hikarilan.life</a>
+  function typeText() {
+    if (index < text.length) {
+      typingElement.textContent += text.charAt(index);
+      index++;
+      setTimeout(typeText, speed);
+    }
+  }
+  typeText();
+</script>
 
-## Work Experience
-- 2021.11 - 2022.4 **Server Side Game Developer Intern** @ *Chongqing Yuanfeng Story Network Technology Co., Ltd*
-- 2023.7 - 2023.9 **Frontend Developer Intern** @ *Aerial Photogrammetry and Remote Sensing Group Co., Ltd.*
-- 2024.1 - 2024.4 **QA Intern** @ *NIO*
-- 2024.4 - 2024.7 **QA Intern** @ *Baidu*
-- 2024.12 - 2025.2 **Backend Developer Intern** @ *TencentCloud*
-- 2025.7 - Present **SDET** @ *Didi Global*
+<style>
+  .cursor {
+    animation: blink 1s infinite;
+  }
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+</style>
 
-## Open Source Contributions
+## 👨‍💻 个人简介
+【这里填写你的个人简介，例如：
+一名专注于C++/后端开发的程序员，擅长高性能异步系统、日志框架开发，热衷于开源技术和技术博客分享。
+熟悉Linux环境下的高并发编程，深耕异步日志、网络编程等领域，持续学习和沉淀技术栈。】
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaokeyibb&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true&theme=transparent" alt="HikariLan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaokeyibb&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8" />
-| ------------- | ------------- |
+## 📞 联系信息
+| 渠道 | 链接/方式 |
+|------|-----------|
+| GitHub | [@wangt610](https://github.com/wangt610) |
+| 邮箱 | 【你的邮箱地址，如：wangt610@xxx.com】 |
+| 微信 | 【你的微信（可选）】 |
+| 知乎 | 【你的知乎链接（可选）】 |
+
+## 📊 GitHub 统计
+<div align="center">
+  <!-- 整体统计卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=wangt610&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%">
+  <!-- 常用语言卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangt610&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+  
+  <!-- 贡献图 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangt610&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="97%">
+</div>
+
+## 🛠️ 技术栈
+### 核心技术
+- 编程语言：C++ (主攻)、Python、JavaScript/TypeScript
+- 后端框架：【如：Boost、muduo、FastAPI等】
+- 操作系统：Linux (CentOS/Ubuntu)、Shell脚本
+- 数据库：【如：MySQL、Redis等】
+- 工具/其他：Git、CMake、异步日志框架、高并发编程
+
+### 熟悉领域
+- 高性能异步系统开发
+- Linux下网络编程/多线程编程
+- 日志框架设计与实现
+- GitHub Pages/静态博客搭建
+
+## 📝 最近活动（可选）
+<!-- 自动更新最近提交记录 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wangt610&theme=radical&hide_border=true" alt="Streak Stats" width="97%">
+
+## ✨ 开源项目（可选）
+| 项目名称 | 简介 | 技术栈 |
+|----------|------|--------|
+| 【项目1名称】 | 【如：高性能异步日志框架，支持批量刷盘、日志分级】 | C++、Linux多线程、CMake |
+| 【项目2名称】 | 【如：GitHub Pages博客模板，适配个人技术博客】 | Markdown、HTML/CSS、JavaScript |
+
+<div align="center">
+  <br>
+  <p>⭐️ 喜欢我的项目？欢迎Star/Follow支持 ⭐️</p>
+</div>
