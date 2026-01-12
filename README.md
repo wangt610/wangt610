@@ -39,14 +39,14 @@
 
 ## 📝 最近活动（可选）
 <!-- 自动更新最近提交记录 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wangt610&theme=radical&hide_border=true" alt="Streak Stats" width="97%">
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=wangt610&theme=radical&hide_border=true" alt="Streak Stats" width="97%">-->
 <!--
 ## ✨ 开源项目（可选）
 | 项目名称 | 简介 | 技术栈 |
 |----------|------|--------|
 | 【项目1名称】 | 【如：高性能异步日志框架，支持批量刷盘、日志分级】 | C++、Linux多线程、CMake |
 | 【项目2名称】 | 【如：GitHub Pages博客模板，适配个人技术博客】 | Markdown、HTML/CSS、JavaScript |
-
+<!--
 <div align="center">
   <br>
   <p>⭐️ 喜欢我的项目？欢迎Star/Follow支持 ⭐️</p>
