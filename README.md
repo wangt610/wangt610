@@ -19,8 +19,8 @@
 ## 📞 联系信息
 | 渠道 |                                                链接/方式 |
 |------|                                               -----------|
-| GitHub | [@wangt610](https://github.com/wangt610) |
-| 邮箱 | 3187209099@qq.com |
+| GitHub              | [@wangt610](https://github.com/wangt610)              |
+| 邮箱                | 3187209099@qq.com                              |
 
 ## 📊 GitHub 统计
 <div>
