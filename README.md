@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <!-- Hello this is wangt  -->
   <h1>
     <span id="typing-effect"></span>
@@ -23,7 +23,7 @@
 | 邮箱 | 3187209099@qq.com |
 
 ## 📊 GitHub 统计
-<div align="center">
+<div>
   <!-- 整体统计卡片 -->
   <img src="https://github-readme-stats.vercel.app/api?username=wangt610&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%">
   <!-- 常用语言卡片 -->
@@ -50,7 +50,7 @@
 ## 📝 最近活动（可选）
 <!-- 自动更新最近提交记录 -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangt610&theme=radical&hide_border=true" alt="Streak Stats" width="97%">
-
+<!--
 ## ✨ 开源项目（可选）
 | 项目名称 | 简介 | 技术栈 |
 |----------|------|--------|
