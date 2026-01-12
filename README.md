@@ -1,3 +1,7 @@
+# 👋 Hi there, I'm WangTing
+
+🎓 **Finance Student** | 💻 **Tech Enthusiast**  
+📍 Xi'an University of Finance and Economics  
   <!-- 徽章：关注者数、访问量 -->
   <div>
      <!-- Hello this is wangt  -->
