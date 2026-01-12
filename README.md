@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Wang Ting
 
-<!--
-**wangt610/wangt610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Developer** | 💡 **Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub followers](https://img.shields.io/github/followers/wangt610?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=wangt610&color=brightgreen)
+
+![WangT610's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangt610&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangt610&layout=compact&theme=radical)
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+🔧 Backend:    Java | Spring Boot | Python | Go
+🗄️  Database:   MySQL | Redis | MongoDB
+☁️  Cloud:      AWS | Docker | Kubernetes
+🔨 Tools:      Git | Maven | Jenkins | Linux
