@@ -16,11 +16,6 @@
 一名专注于C++/后端开发的程序员，擅长高性能异步系统、日志框架开发，热衷于开源技术和技术博客分享。
 熟悉Linux环境下的高并发编程，深耕异步日志、网络编程等领域，持续学习和沉淀技术栈。】
 
-## 📞 联系信息
-| 渠道 |                                                链接/方式 |
-|------|                                               -----------|
-| GitHub              | [@wangt610](https://github.com/wangt610)              |
-| 邮箱                | 3187209099@qq.com                              |
 
 ## 📊 GitHub 统计
 <div>
@@ -32,6 +27,9 @@
   <!-- 贡献图 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangt610&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="97%">
 </div>
+
+## 📞 联系信息
+邮箱 ：3187209099@qq.com      
   <!-- 
 ## 🛠️ 技术栈
 ### 核心技术
