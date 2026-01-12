@@ -2,7 +2,7 @@
   <!-- Hello this is wangt  -->
   <h1>
     <span id="typing-effect"></span>
-    <span class="cursor">Hello this is wangt</span>
+    <span class="cursor">Hello this is wangt!</span>
   </h1>
 
   <!-- 徽章：关注者数、访问量 -->
@@ -10,7 +10,32 @@
     <img src="https://img.shields.io/github/followers/wangt610?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
     <img src="https://komarev.com/ghpvc/?username=wangt610&label=Profile%20Views&style=for-the-badge&color=orange" alt="Profile Views">
 </div>
+<!-- 动态打字效果脚本 -->
+<script>
+  const text = "Hi, I'm wangt610 👋";
+  const typingElement = document.getElementById('typing-effect');
+  let index = 0;
+  const speed = 150;
 
+  function typeText() {
+    if (index < text.length) {
+      typingElement.textContent += text.charAt(index);
+      index++;
+      setTimeout(typeText, speed);
+    }
+  }
+  typeText();
+</script>
+
+<style>
+  .cursor {
+    animation: blink 1s infinite;
+  }
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+</style>
 ## 👨‍💻 个人简介
 【
 一名专注于C++/后端开发的程序员，擅长高性能异步系统、日志框架开发，热衷于开源技术和技术博客分享。
