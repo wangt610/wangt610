@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/followers/wangt610?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
     <img src="https://komarev.com/ghpvc/?username=wangt610&label=Profile%20Views&style=for-the-badge&color=orange" alt="Profile Views">
 </div>
-
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋welcome+to+Tan's+homepage!&center=true&width=400&height=40&fontSize=24&duration=3000&color=aa0a00)
 <!-- 动态打字效果脚本 -->
 <script>
   const text = "Hi, I'm wangt610 👋";
