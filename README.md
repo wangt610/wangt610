@@ -10,14 +10,15 @@
     <img src="https://img.shields.io/github/followers/wangt610?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
     <img src="https://komarev.com/ghpvc/?username=wangt610&label=Profile%20Views&style=for-the-badge&color=orange" alt="Profile Views">
 </div>
+
 ## 👨‍💻 个人简介
 【
 一名专注于C++/后端开发的程序员，擅长高性能异步系统、日志框架开发，热衷于开源技术和技术博客分享。
 熟悉Linux环境下的高并发编程，深耕异步日志、网络编程等领域，持续学习和沉淀技术栈。】
 
 ## 📞 联系信息
-| 渠道 | 链接/方式 |
-|------|-----------|
+| 渠道 |                                                链接/方式 |
+|------|                                               -----------|
 | GitHub | [@wangt610](https://github.com/wangt610) |
 | 邮箱 | 3187209099@qq.com |
 
