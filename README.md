@@ -9,20 +9,6 @@
   <div>
     <img src="https://img.shields.io/github/followers/wangt610?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
     <img src="https://komarev.com/ghpvc/?username=wangt610&label=Profile%20Views&style=for-the-badge&color=orange" alt="Profile Views">
-  </div>
-
-  <!-- 徽章链接：个人主页、博客、简历 -->
-  <div style="margin-top: 10px;">
-    <a href="【你的个人主页链接】" target="_blank">
-      <img src="https://img.shields.io/badge/个人主页-🌐-brightgreen?style=for-the-badge" alt="Personal Homepage">
-    </a>
-    <a href="https://wangt610.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/博客-✍️-purple?style=for-the-badge" alt="Blog">
-    </a>
-    <a href="【你的简历链接】" target="_blank">
-      <img src="https://img.shields.io/badge/简历-📄-red?style=for-the-badge" alt="Resume">
-    </a>
-  </div>
 </div>
 
 <!-- 动态打字效果脚本 -->
