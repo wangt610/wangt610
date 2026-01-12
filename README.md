@@ -11,16 +11,6 @@
     <img src="https://komarev.com/ghpvc/?username=wangt610&label=Profile%20Views&style=for-the-badge&color=orange" alt="Profile Views">
 </div>
 
-<style>
-  .cursor {
-    animation: blink 1s infinite;
-  }
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-</style>
-
 ## 👨‍💻 个人简介
 【
 一名专注于C++/后端开发的程序员，擅长高性能异步系统、日志框架开发，热衷于开源技术和技术博客分享。
@@ -30,9 +20,7 @@
 | 渠道 | 链接/方式 |
 |------|-----------|
 | GitHub | [@wangt610](https://github.com/wangt610) |
-| 邮箱 | 【你的邮箱地址，如：wangt610@xxx.com】 |
-| 微信 | 【你的微信（可选）】 |
-| 知乎 | 【你的知乎链接（可选）】 |
+| 邮箱 | 3187209099@qq.com |
 
 ## 📊 GitHub 统计
 <div align="center">
@@ -44,7 +32,7 @@
   <!-- 贡献图 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangt610&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="97%">
 </div>
-
+  <!-- 
 ## 🛠️ 技术栈
 ### 核心技术
 - 编程语言：C++ (主攻)、Python、JavaScript/TypeScript
@@ -73,3 +61,4 @@
   <br>
   <p>⭐️ 喜欢我的项目？欢迎Star/Follow支持 ⭐️</p>
 </div>
+-->
