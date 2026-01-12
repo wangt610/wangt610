@@ -10,30 +10,42 @@
     <img src="https://img.shields.io/github/followers/wangt610?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
     <img src="https://komarev.com/ghpvc/?username=wangt610&label=Profile%20Views&style=for-the-badge&color=orange" alt="Profile Views">
 </div>
-<!-- 动态打字效果脚本 -->
+<!-- 动态打字效果脚本 + 光标闪烁样式 -->
 <script>
-  const text = "Hi, I'm wangt610 👋";
+  // 要显示的打字文本（可自行修改）
+  const text = "Hello this is wangt!";
   const typingElement = document.getElementById('typing-effect');
   let index = 0;
-  const speed = 150;
+  const typingSpeed = 150; // 打字速度（毫秒/字）
 
+  // 逐字打字函数
   function typeText() {
     if (index < text.length) {
       typingElement.textContent += text.charAt(index);
       index++;
-      setTimeout(typeText, speed);
+      setTimeout(typeText, typingSpeed);
     }
   }
-  typeText();
+
+  // 页面加载后启动打字效果
+  window.onload = typeText;
 </script>
 
 <style>
+  /* 光标闪烁动画 */
   .cursor {
+    font-weight: normal;
     animation: blink 1s infinite;
   }
+
   @keyframes blink {
     0%, 100% { opacity: 1; }
     50% { opacity: 0; }
+  }
+
+  /* 居中对齐优化 */
+  div {
+    text-align: center;
   }
 </style>
 ## 👨‍💻 个人简介
